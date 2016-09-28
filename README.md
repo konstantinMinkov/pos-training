@@ -5,4 +5,4 @@
 Дозволяє повернути гроші, скасувавши запит
 Видає решту і продукт
 
-Uml-diagram:
+Uml-diagram: https://github.com/konstantinMinkov/pos-training/blob/master/diagram.png
